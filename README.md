@@ -1,5 +1,5 @@
 # get_number_whatsapp
-1.run get_number_whatsapp.py in debug mode \n
+1.run get_number_whatsapp.py in debug mode
 2.login whatsapp
 3.add breakpoint in function login
 4.run self.get_user() in debug concolse
