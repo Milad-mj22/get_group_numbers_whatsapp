@@ -1,0 +1,850 @@
+1661524346367	geckodriver	INFO	Listening on 127.0.0.1:33043
+1661524346878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesKKYNu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661524348242	Marionette	INFO	Marionette enabled
+1661524348256	Marionette	INFO	Listening on port 41173
+WebDriver BiDi listening on ws://localhost:48879
+Read port: 41173
+1661524348511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesKKYNu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48879/devtools/browser/24a914df-fad5-47f0-a1df-4dd497edecd4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3b100b837611.js, line 477: Error: not eligible for FB login
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1661524466636	geckodriver	INFO	Listening on 127.0.0.1:36563
+1661524466645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDl27Ot"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661524467411	Marionette	INFO	Marionette enabled
+1661524467416	Marionette	INFO	Listening on port 43549
+WebDriver BiDi listening on ws://localhost:36031
+Read port: 43549
+1661524467545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDl27Ot/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36031/devtools/browser/71de56c4-8d31-401c-99c4-f125d26352c7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1661524586715	geckodriver	INFO	Listening on 127.0.0.1:57131
+1661524587238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyBihAW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661524588393	Marionette	INFO	Marionette enabled
+1661524588401	Marionette	INFO	Listening on port 41905
+WebDriver BiDi listening on ws://localhost:44673
+Read port: 41905
+1661524588641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyBihAW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44673/devtools/browser/5ce6cc64-4c0c-4a59-a2ee-12743b18543b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1661524870581	geckodriver	INFO	Listening on 127.0.0.1:42871
+1661524870601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK0tPbW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661524871809	Marionette	INFO	Marionette enabled
+1661524871818	Marionette	INFO	Listening on port 42823
+WebDriver BiDi listening on ws://localhost:36789
+Read port: 42823
+1661524871976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK0tPbW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36789/devtools/browser/8e9b0ab1-c38e-4307-8bd3-8785be66d3fb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T14:42:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T14:42:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T14:42:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T14:42:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661525698496	Marionette	INFO	Stopped listening on port 43549
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661526017703	geckodriver	INFO	Listening on 127.0.0.1:44871
+1661526018216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5xVm3P"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661526019194	Marionette	INFO	Marionette enabled
+1661526019199	Marionette	INFO	Listening on port 34801
+WebDriver BiDi listening on ws://localhost:37305
+Read port: 34801
+1661526019376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5xVm3P/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37305/devtools/browser/5d39fdb1-e8af-441a-b106-ec73e764eaa3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1661526063717	geckodriver	INFO	Listening on 127.0.0.1:41937
+1661526063729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR1nbE8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661526064449	Marionette	INFO	Marionette enabled
+1661526064453	Marionette	INFO	Listening on port 43639
+WebDriver BiDi listening on ws://localhost:35277
+Read port: 43639
+1661526064571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR1nbE8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35277/devtools/browser/5b10048d-f476-4dc1-892a-0f0914965bad
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1661526146374	geckodriver	INFO	Listening on 127.0.0.1:36189
+1661526146393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqAfUN7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661526147220	Marionette	INFO	Marionette enabled
+1661526147224	Marionette	INFO	Listening on port 33997
+WebDriver BiDi listening on ws://localhost:46219
+Read port: 33997
+1661526147355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqAfUN7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46219/devtools/browser/ec71994f-01d4-4168-910d-82197aba42d2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+[2022-08-26T15:03:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:03:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[2022-08-26T15:04:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:04:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:04:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:04:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661526791497	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661526837597	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1004))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967298/pagestyle22 (resource://devtools/server/actors/page-style.js:1004:5)", "resource://devtools/shared/protocol/Front.js", 376))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661527069136	geckodriver	INFO	Listening on 127.0.0.1:52623
+1661527069152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJQvau0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661527070058	Marionette	INFO	Marionette enabled
+1661527070063	Marionette	INFO	Listening on port 44431
+WebDriver BiDi listening on ws://localhost:34125
+Read port: 44431
+1661527070205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJQvau0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34125/devtools/browser/f77ab922-1434-4a6b-aa3a-44b2aa88f44d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T15:18:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:18:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:19:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:19:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:19:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:19:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661527261576	geckodriver	INFO	Listening on 127.0.0.1:60899
+1661527261589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq4rCwt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661527262422	Marionette	INFO	Marionette enabled
+1661527262426	Marionette	INFO	Listening on port 33523
+WebDriver BiDi listening on ws://localhost:54303
+Read port: 33523
+1661527262563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq4rCwt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54303/devtools/browser/07081e0f-1173-49db-a7a3-23b11009663f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T15:22:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:22:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:23:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:23:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:23:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:23:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:24:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:24:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+SourceActor threw an exception: Error: Failed to fetch https://web.whatsapp.com/. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:583:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 583, column: 16
+console.error: (new Error("Failed to fetch https://web.whatsapp.com/. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 583))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 583: Error: Failed to fetch https://web.whatsapp.com/. Code 2152398878.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:121:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:859:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:764:38
+
+1661527605883	geckodriver	INFO	Listening on 127.0.0.1:40599
+1661527605899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerTf9FB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661527606792	Marionette	INFO	Marionette enabled
+1661527606798	Marionette	INFO	Listening on port 39447
+Read port: 39447
+WebDriver BiDi listening on ws://localhost:37547
+1661527607000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerTf9FB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37547/devtools/browser/de359f21-e4a3-4b02-92f2-89df26ed861b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1661527736398	geckodriver	INFO	Listening on 127.0.0.1:59789
+1661527736410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoFBq7Q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661527737298	Marionette	INFO	Marionette enabled
+1661527737303	Marionette	INFO	Listening on port 45515
+WebDriver BiDi listening on ws://localhost:57755
+Read port: 45515
+1661527737454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoFBq7Q/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57755/devtools/browser/a059b150-7e10-47f0-98b9-1d1834f7c4e2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+1661528180756	geckodriver	INFO	Listening on 127.0.0.1:56569
+1661528180770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKgN4qG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661528181670	Marionette	INFO	Marionette enabled
+1661528181675	Marionette	INFO	Listening on port 41603
+WebDriver BiDi listening on ws://localhost:45991
+Read port: 41603
+1661528181830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKgN4qG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45991/devtools/browser/91858e9d-cbbd-46a4-a195-b5c30b05c37c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+[2022-08-26T15:37:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:37:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661528347600	Marionette	INFO	Stopped listening on port 41603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661528349707	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1661528483258	geckodriver	INFO	Listening on 127.0.0.1:38937
+1661528483272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile08nnv7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661528484303	Marionette	INFO	Marionette enabled
+1661528484308	Marionette	INFO	Listening on port 36709
+WebDriver BiDi listening on ws://localhost:42295
+Read port: 36709
+1661528484488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile08nnv7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42295/devtools/browser/cbf000ea-02a0-49fe-954d-8b0dd11228a7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+[2022-08-26T15:42:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:42:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661528631768	Marionette	INFO	Stopped listening on port 36709
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661528633260	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1661528641815	geckodriver	INFO	Listening on 127.0.0.1:37489
+1661528641832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZQuASx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661528642714	Marionette	INFO	Marionette enabled
+1661528642720	Marionette	INFO	Listening on port 38263
+WebDriver BiDi listening on ws://localhost:51973
+Read port: 38263
+1661528642884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZQuASx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51973/devtools/browser/b550148a-5e1a-44e5-bf72-974294d9f618
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+[2022-08-26T15:44:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:44:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661528710284	Marionette	INFO	Stopped listening on port 38263
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661528711786	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1661528765531	geckodriver	INFO	Listening on 127.0.0.1:35739
+1661528765546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZLdx2o"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661528766445	Marionette	INFO	Marionette enabled
+1661528766450	Marionette	INFO	Listening on port 39095
+WebDriver BiDi listening on ws://localhost:55093
+Read port: 39095
+1661528766642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZLdx2o/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55093/devtools/browser/0e4e2a8f-e19f-42ce-b282-16e55b37a1b3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+[2022-08-26T15:46:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:46:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:47:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661528890059	geckodriver	INFO	Listening on 127.0.0.1:43167
+1661528890080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesh4Cbi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661528890972	Marionette	INFO	Marionette enabled
+1661528890977	Marionette	INFO	Listening on port 34781
+Read port: 34781
+WebDriver BiDi listening on ws://localhost:35443
+1661528891138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesh4Cbi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35443/devtools/browser/79f6d314-09cb-4a15-aec7-7c4ef9613267
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+[2022-08-26T15:49:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:49:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661529184638	geckodriver	INFO	Listening on 127.0.0.1:35539
+1661529184739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQeqqmJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661529191220	Marionette	INFO	Marionette enabled
+1661529191262	Marionette	INFO	Listening on port 36089
+WebDriver BiDi listening on ws://localhost:51455
+Read port: 36089
+1661529192166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQeqqmJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51455/devtools/browser/34ac8370-9392-4b3e-a5ea-5f86ff31b9ee
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661529210860	Marionette	INFO	Stopped listening on port 43639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661529212324	Marionette	INFO	Stopped listening on port 36089
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://web.whatsapp.com/serviceworker.js for scope https://web.whatsapp.com/ encountered an error during installation.
+1661529212785	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2022-08-26T15:53:33Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1661529234267	geckodriver	INFO	Listening on 127.0.0.1:46415
+1661529234347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehRUC1N"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661529237857	Marionette	INFO	Marionette enabled
+1661529237860	Marionette	INFO	Listening on port 34805
+WebDriver BiDi listening on ws://localhost:58147
+Read port: 34805
+1661529238074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehRUC1N/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58147/devtools/browser/2eeb2fcc-b3eb-410d-a25d-3f1de2c8d901
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T15:54:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:54:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661529309330	geckodriver	INFO	Listening on 127.0.0.1:50937
+1661529309340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegOk0MF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661529310052	Marionette	INFO	Marionette enabled
+1661529310058	Marionette	INFO	Listening on port 36805
+WebDriver BiDi listening on ws://localhost:41761
+Read port: 36805
+1661529310259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegOk0MF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41761/devtools/browser/1566a753-945e-4edf-8569-bebc03af4f71
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T15:55:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:55:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:08Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:08Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:56:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661529406362	geckodriver	INFO	Listening on 127.0.0.1:48311
+1661529406375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletmt0tu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661529407107	Marionette	INFO	Marionette enabled
+1661529407111	Marionette	INFO	Listening on port 37429
+WebDriver BiDi listening on ws://localhost:34689
+Read port: 37429
+1661529407257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletmt0tu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34689/devtools/browser/52e32789-2ccb-4cb7-866c-74c0a620cf00
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T15:57:26Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:26Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T15:57:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661529556111	geckodriver	INFO	Listening on 127.0.0.1:60231
+1661529556123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuSlj5v"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661529556818	Marionette	INFO	Marionette enabled
+1661529556822	Marionette	INFO	Listening on port 33591
+Read port: 33591
+WebDriver BiDi listening on ws://localhost:48255
+1661529556934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuSlj5v/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48255/devtools/browser/dcbd9b35-55d7-4d9d-9fff-f13dc87f1c56
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T16:00:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:00:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661529705558	geckodriver	INFO	Listening on 127.0.0.1:36905
+1661529705569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebS3eyB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661529706296	Marionette	INFO	Marionette enabled
+1661529706300	Marionette	INFO	Listening on port 40507
+WebDriver BiDi listening on ws://localhost:59179
+Read port: 40507
+1661529706459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebS3eyB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59179/devtools/browser/78937fe9-4d39-4ee8-91ad-b90b52a4a2e5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+[2022-08-26T16:02:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:02:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:03:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661529888436	Marionette	INFO	Stopped listening on port 40507
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1661529888566	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1661529888605	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+[2022-08-26T16:04:48Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1661529901185	geckodriver	INFO	Listening on 127.0.0.1:52835
+1661529901196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH0vbPB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661529901922	Marionette	INFO	Marionette enabled
+1661529901926	Marionette	INFO	Listening on port 33467
+WebDriver BiDi listening on ws://localhost:40815
+Read port: 33467
+1661529902057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH0vbPB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40815/devtools/browser/c91ef816-699c-429f-90ab-3ef33233f5a9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T16:06:26Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:06:26Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661530304681	geckodriver	INFO	Listening on 127.0.0.1:37429
+1661530304692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBDMhSv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661530305378	Marionette	INFO	Marionette enabled
+1661530305383	Marionette	INFO	Listening on port 46241
+WebDriver BiDi listening on ws://localhost:59295
+Read port: 46241
+1661530305538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBDMhSv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59295/devtools/browser/c8516cd3-692d-4e56-ba1c-2897a05134c3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16d3a56f9a4d4d395a53.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T16:12:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:12:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:13:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:13:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:13:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:13:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:13:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:13:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661530415259	geckodriver	INFO	Listening on 127.0.0.1:34935
+1661530415269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqjSp27"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661530415951	Marionette	INFO	Marionette enabled
+1661530415955	Marionette	INFO	Listening on port 37117
+WebDriver BiDi listening on ws://localhost:50099
+Read port: 37117
+1661530416066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqjSp27/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50099/devtools/browser/78164660-b679-4ff0-b672-a286ae411a5c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+[2022-08-26T16:14:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:14:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661530552448	geckodriver	INFO	Listening on 127.0.0.1:41049
+1661530552460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLa6kof"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661530553165	Marionette	INFO	Marionette enabled
+1661530553169	Marionette	INFO	Listening on port 41105
+WebDriver BiDi listening on ws://localhost:56703
+Read port: 41105
+1661530553304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLa6kof/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56703/devtools/browser/14dc7cd7-b841-403f-ac6b-1c6f169ba287
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T16:16:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:16:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661530715786	geckodriver	INFO	Listening on 127.0.0.1:47275
+1661530715796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXpqmY6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661530716472	Marionette	INFO	Marionette enabled
+1661530716476	Marionette	INFO	Listening on port 44751
+WebDriver BiDi listening on ws://localhost:35383
+Read port: 44751
+1661530716623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXpqmY6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35383/devtools/browser/a300ce75-017f-405c-8fd8-1aa4207454c9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T16:19:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T16:19:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661537327281	geckodriver	INFO	Listening on 127.0.0.1:40181
+1661537327802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKtR4ra"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661537329451	Marionette	INFO	Marionette enabled
+1661537329462	Marionette	INFO	Listening on port 40149
+WebDriver BiDi listening on ws://localhost:54905
+Read port: 40149
+1661537329739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKtR4ra/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54905/devtools/browser/90b4da33-c79e-413d-b0c8-3b087595894d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T18:11:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:11:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1661537771049	geckodriver	INFO	Listening on 127.0.0.1:55231
+1661537771059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemDnaHW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661537771747	Marionette	INFO	Marionette enabled
+1661537771751	Marionette	INFO	Listening on port 36457
+WebDriver BiDi listening on ws://localhost:35457
+Read port: 36457
+1661537771861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemDnaHW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35457/devtools/browser/68e9baa4-2ad4-40fd-a9fe-a4fcbf127fe4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+[2022-08-26T18:18:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:18:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:22:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:22:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:22:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:22:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:23:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:23:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-08-26T18:26:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661539159371	Marionette	INFO	Stopped listening on port 36457
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661539159602	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
